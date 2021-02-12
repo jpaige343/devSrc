@@ -1,6 +1,6 @@
 # devSrc
 
-devSrc is a user curated library to share, store, and study software engineering resources within the student developer community.
+devSrc is a user curated library to share, store, and study software engineering resources within the student developer community
 
 ## Why devSrc?
 
